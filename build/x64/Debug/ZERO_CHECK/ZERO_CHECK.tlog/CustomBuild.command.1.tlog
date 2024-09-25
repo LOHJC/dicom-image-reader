@@ -1,0 +1,10 @@
+^C:\USERS\LOHJI\ONEDRIVE\DOCUMENTS\DURR DENTAL\DICOM-IMAGE-READER\BUILD\CMAKEFILES\B99FE1E1ED9339C82299C67F0E791841\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader" "-BC:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/dicom-image-reader.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

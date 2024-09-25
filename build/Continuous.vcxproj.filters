@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lohji\OneDrive\Documents\Durr Dental\dicom-image-reader\build\CMakeFiles\b99fe1e1ed9339c82299c67f0e791841\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lohji\OneDrive\Documents\Durr Dental\dicom-image-reader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lohji\OneDrive\Documents\Durr Dental\dicom-image-reader\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{418FEAEB-4CC3-3869-8284-B7B2C199F29E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

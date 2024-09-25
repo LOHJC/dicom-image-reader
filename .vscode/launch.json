@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C++ Launch (Windows)",
+            "cwd": "${workspaceRoot}",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/build/Debug/dicom-image-reader.exe",
+            "symbolSearchPath": "${workspaceRoot}/build/Debug;",
+            // "console": "integratedTerminal",
+            "console": "externalTerminal",
+            "environment": [{ "name": "config", "value": "Debug" }],
+            "logging": {
+              "moduleLoad": false,
+              "trace": true
+            }
+          }
+          
+    ]
+}

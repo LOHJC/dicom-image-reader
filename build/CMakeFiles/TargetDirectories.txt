@@ -1,0 +1,9 @@
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/dicom-image-reader.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/Experimental.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/Nightly.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/Continuous.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/PACKAGE.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lohji/OneDrive/Documents/Durr Dental/dicom-image-reader/build/CMakeFiles/ZERO_CHECK.dir
